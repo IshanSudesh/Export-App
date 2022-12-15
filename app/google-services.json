@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "304441454547",
+    "project_id": "eexport",
+    "storage_bucket": "eexport.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304441454547:android:10c8a870bae588dc484926",
+        "android_client_info": {
+          "package_name": "com.example.eexport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304441454547-o5dkh38r1c7cm93g6463g28gabd260tg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmROlV1liNOA3TfndFBky8npcsK1LD61M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304441454547-o5dkh38r1c7cm93g6463g28gabd260tg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

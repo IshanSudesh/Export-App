@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddProduct">
+
+
+<!--    <TextView-->
+<!--        android:id="@+id/textView2"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginTop="24dp"-->
+<!--        android:gravity="center"-->
+<!--        android:text="Add Product"-->
+<!--        android:textSize="40dp"-->
+<!--        app:layout_constraintTop_toTopOf="parent"-->
+<!--        tools:layout_editor_absoluteX="0dp" />-->
+
+
+<!--    <ImageButton-->
+<!--        android:id="@+id/addImageButton"-->
+<!--        android:layout_width="100dp"-->
+<!--        android:layout_height="100dp"-->
+<!--        android:layout_marginTop="12dp"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintHorizontal_bias="0.498"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toBottomOf="@+id/textView2"-->
+<!--        tools:srcCompat="@tools:sample/avatars" />-->
+
+<!--    <EditText-->
+<!--        android:id="@+id/addProdcutName"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginTop="8dp"-->
+<!--        android:ems="10"-->
+<!--        android:hint="Product Name"-->
+<!--        android:inputType="textPersonName"-->
+<!--        app:layout_constraintTop_toBottomOf="@+id/addImageButton"-->
+<!--        tools:layout_editor_absoluteX="0dp" />-->
+
+<!--    <EditText-->
+<!--        android:id="@+id/addProductCode"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginStart="10dp"-->
+<!--        android:layout_marginEnd="1dp"-->
+<!--        android:layout_marginTop="10dp"-->
+<!--        android:layout_marginBottom="10dp"-->
+<!--        android:ems="10"-->
+<!--        android:inputType="textPersonName"-->
+<!--        android:hint="Product Code"-->
+<!--        app:layout_constraintTop_toBottomOf="@+id/addProdcutName"-->
+<!--        tools:layout_editor_absoluteX="97dp" />-->
+
+<!--    <EditText-->
+<!--        android:id="@+id/addProductPrice"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginStart="10dp"-->
+<!--        android:layout_marginEnd="1dp"-->
+<!--        android:layout_marginTop="10dp"-->
+<!--        android:layout_marginBottom="10dp"-->
+<!--        android:ems="10"-->
+<!--        android:inputType="textPersonName"-->
+<!--        android:hint="Price"-->
+<!--        app:layout_constraintTop_toBottomOf="@+id/addProductCode"-->
+<!--        tools:layout_editor_absoluteX="97dp" />-->
+
+<!--    <EditText-->
+<!--        android:id="@+id/addProductDescription"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginStart="10dp"-->
+<!--        android:layout_marginEnd="1dp"-->
+<!--        android:layout_marginTop="10dp"-->
+<!--        android:layout_marginBottom="10dp"-->
+<!--        android:ems="10"-->
+<!--        android:inputType="textPersonName"-->
+<!--        android:hint="Description"-->
+<!--        app:layout_constraintTop_toBottomOf="@+id/addProductPrice"-->
+<!--        tools:layout_editor_absoluteX="101dp" />-->
+
+<!--    <Button-->
+<!--        android:id="@+id/addProductButton"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginTop="20dp"-->
+<!--        android:text="Add productModel"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toBottomOf="@+id/addProductDescription" />-->
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
